@@ -3,7 +3,7 @@
 int main(){
   
   
- 
+  puts("this is for test");
   
   return 0;
   
